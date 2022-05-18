@@ -5,7 +5,8 @@ import './style.css'
 // import './clean-code/07-classes-homework';
 // import './code-smells/02-low-coupling';
 // import './solid/01-srp';
-import './solid/02-open-close-a';
+// import './solid/02-open-close-a';
+import './solid/03-liskov-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
